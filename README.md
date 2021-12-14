@@ -1,4 +1,7 @@
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?theme=github&username=OxCaffee)](https://github.com/anuraghazra/github-readme-stats)
+
+
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=MiracleKAI)](https://github.com/anuraghazra/github-readme-stats)
+
 
 <!-- < img src="https://github-readme-stats.vercel.app/api?username=MiracleKAI&show_icons=true&theme=github&hide_title=false"/> -->
 
